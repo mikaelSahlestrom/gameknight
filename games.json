@@ -1,0 +1,16 @@
+{
+    "4player":{
+        "snes":[],
+        "n64":[],
+        "teris":{"link": "https://store.steampowered.com/app/546050/Puyo_PuyoTetris/?l=swedish"},
+        "trackmania": {"link": "https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/"},
+        "amongUs":{},
+        "spelunky2":{},
+        "magicka2":{},
+        "left4dead2":{},
+        "riskOfRain":{},
+        "deepRockGalactic":{},
+        "speedRunners":{},
+        "rocketLeague":{}
+    }
+}
